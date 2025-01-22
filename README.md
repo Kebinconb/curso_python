@@ -1,3 +1,3 @@
 # curso_python
-Curso de Python \n
+Curso de Python
 223205114 - Urias Kevin
