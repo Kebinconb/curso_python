@@ -21,9 +21,9 @@ class Team:
             return {"name": self.name, "sport": self.sport.to_json(), "players": [p.to_json() for p in self.players]}
 if __name__ == '__main__':
     a1 = Athlete("Michael Jordan")
-    a1 = Athlete("Michael Jordan")
-    a1 = Athlete("Michael Jordan")
-    a1 = Athlete("Michael Jordan")
-    a1 = Athlete("Michael Jordan")
+    a2 = Athlete("Kobe Bryant")
+    a3 = Athlete("Lebron James")
+    a4 = Athlete("Sthepen Curry")
+    a5 = Athlete("Shaquille O'Neal")
     
         
